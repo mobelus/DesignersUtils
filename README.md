@@ -3,7 +3,7 @@
 Single png inside md Example
 
 
-![](Screenshot_51.png)
+![](Screenshot_006.png)
 
 
 # DesignersUtils
