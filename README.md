@@ -18,3 +18,6 @@ https://www.yworks.com/products/yed
 # Построение диаграмм классов - UMLet
 https://www.umlet.com/
 
+# Просмотр зависимостей - Dependency Walker (New version)
+https://github.com/lucasg/Dependencies/releases
+
