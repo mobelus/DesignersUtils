@@ -6,6 +6,14 @@ Single png inside md Example
 ![](Screenshot_006.png)
 
 
+# FluentCpp
+https://www.fluentcpp.com/
+
+# Cpp Core Guidelines
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+
+#  ###########################################################
+
 # DesignersUtils
 Online Utilities and websites with useful designer features for everyday
 
