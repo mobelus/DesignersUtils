@@ -13,6 +13,7 @@ https://www.fluentcpp.com/
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 #  ###########################################################
+#  ###########################################################
 
 # DesignersUtils
 Online Utilities and websites with useful designer features for everyday
