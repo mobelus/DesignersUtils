@@ -18,6 +18,11 @@ https://www.yworks.com/products/yed
 # Построение диаграмм классов - UMLet
 https://www.umlet.com/
 
+# UML-designer - PlantUML
+https://www.planttext.com/
+### PlantUML guide
+http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
+
 # Просмотр зависимостей - Dependency Walker (New version)
 https://github.com/lucasg/Dependencies/releases
 
