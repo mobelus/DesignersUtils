@@ -35,3 +35,7 @@ http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 # Просмотр зависимостей - Dependency Walker (New version)
 https://github.com/lucasg/Dependencies/releases
 
+# CppCheck - Static Code Analyser 
+http://cppcheck.sourceforge.net/
+
+
