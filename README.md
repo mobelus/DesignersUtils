@@ -5,6 +5,8 @@ Single png inside md Example
 
 ![](Screenshot_006.png)
 
+# CTRL+K+C / CTRL+K+U
+https://stackoverflow.com/questions/12066739/what-key-shortcuts-are-to-comment-and-uncomment-code
 
 # FluentCpp
 https://www.fluentcpp.com/
