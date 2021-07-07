@@ -17,6 +17,9 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 #  ###########################################################
 #  ###########################################################
 
+# CLeoMoon SessionGuard (имитатор движения мыши)
+https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/
+
 # DesignersUtils
 Online Utilities and websites with useful designer features for everyday
 
