@@ -53,7 +53,9 @@ http://wordexpert.ru/forum/viewtopic.php?id=1526
 
 https://i.snag.gy/nTPI3R.jpg
 
+# JAVA INTERVIEW QUESTIONS
 
+https://github.com/enhorse/java-interview
 
 # HOTKEYS
 ```
