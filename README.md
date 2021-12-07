@@ -27,7 +27,7 @@ http://www.xiconeditor.com/
 ### Построение Блок-Схем и диаграмм - yEd
 https://www.yworks.com/products/yed
 
-# Построение диаграмм классов - UMLet
+### Построение диаграмм классов - UMLet
 https://www.umlet.com/
 
 ### UML-designer - PlantUML
@@ -41,17 +41,17 @@ https://github.com/lucasg/Dependencies/releases
 ### CppCheck - Static Code Analyser 
 http://cppcheck.sourceforge.net/
 
+## FREE ICONS
+https://www.1001freedownloads.com/free-clipart/icon-set-player
+
 ### GET COLOR FROM IMAGE
 https://pinetools.com/colorize-image
 
-# INVERT COLOR OF IMAGE
+### INVERT COLOR OF IMAGE
 https://pinetools.com/invert-image-colors
 
 ### CHANGE COLOR 1 OF IMAGE / COLORIZE IMAGE
 https://pinetools.com/colorize-image
-
-### FREE ICONS
-https://www.1001freedownloads.com/free-clipart/icon-set-player
 
 ### ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE:
 http://wordexpert.ru/forum/viewtopic.php?id=1526
