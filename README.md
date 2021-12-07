@@ -43,6 +43,15 @@ https://github.com/lucasg/Dependencies/releases
 # CppCheck - Static Code Analyser 
 http://cppcheck.sourceforge.net/
 
+### GET COLOR FROM IMAGE
+https://pinetools.com/colorize-image
+
+# INVERT COLOR OF IMAGE
+https://pinetools.com/invert-image-colors
+
+# CHANGE COLOR 1 OF IMAGE / COLORIZE IMAGE
+https://pinetools.com/colorize-image
+
 # FREE ICONS
 
 https://www.1001freedownloads.com/free-clipart/icon-set-player
