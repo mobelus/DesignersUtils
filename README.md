@@ -1,46 +1,44 @@
-
-# PNG Example
+### PNG Example
 Single png inside md Example
 
 
 ![](Screenshot_006.png)
 
-# CTRL+K+C / CTRL+K+U
+### CTRL+K+C / CTRL+K+U
 https://stackoverflow.com/questions/12066739/what-key-shortcuts-are-to-comment-and-uncomment-code
 
-# FluentCpp
+### FluentCpp
 https://www.fluentcpp.com/
 
-# Cpp Core Guidelines
+### Cpp Core Guidelines
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 #  ###########################################################
-#  ###########################################################
 
-# CLeoMoon SessionGuard (имитатор движения мыши)
+### CLeoMoon SessionGuard (имитатор движения мыши)
 https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/
 
-# DesignersUtils
+### DesignersUtils
 Online Utilities and websites with useful designer features for everyday
 
-# ICO Icon creator
+### ICO Icon creator
 http://www.xiconeditor.com/
 
-# Построение Блок-Схем и диаграмм - yEd
+### Построение Блок-Схем и диаграмм - yEd
 https://www.yworks.com/products/yed
 
 # Построение диаграмм классов - UMLet
 https://www.umlet.com/
 
-# UML-designer - PlantUML
+### UML-designer - PlantUML
 https://www.planttext.com/
 ### PlantUML guide
 http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
-# Просмотр зависимостей - Dependency Walker (New version)
+### Просмотр зависимостей - Dependency Walker (New version)
 https://github.com/lucasg/Dependencies/releases
 
-# CppCheck - Static Code Analyser 
+### CppCheck - Static Code Analyser 
 http://cppcheck.sourceforge.net/
 
 ### GET COLOR FROM IMAGE
@@ -49,15 +47,13 @@ https://pinetools.com/colorize-image
 # INVERT COLOR OF IMAGE
 https://pinetools.com/invert-image-colors
 
-# CHANGE COLOR 1 OF IMAGE / COLORIZE IMAGE
+### CHANGE COLOR 1 OF IMAGE / COLORIZE IMAGE
 https://pinetools.com/colorize-image
 
-# FREE ICONS
-
+### FREE ICONS
 https://www.1001freedownloads.com/free-clipart/icon-set-player
 
-# ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE:
-
+### ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE:
 http://wordexpert.ru/forum/viewtopic.php?id=1526
 
 https://i.snag.gy/nTPI3R.jpg
