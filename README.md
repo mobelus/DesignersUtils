@@ -19,6 +19,8 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 Online Utilities and websites with useful designer features for everyday
 
 | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+|-------------------------------------------------------|------------------------------------------------------------------|
+| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
 | CLeoMoon SessionGuard (имитатор движения мыши)        | https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/ |
 | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
 | Построение Блок-Схем и диаграмм - yEd                 | https://www.yworks.com/products/yed                              |
