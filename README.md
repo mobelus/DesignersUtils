@@ -20,6 +20,8 @@ Online Utilities and websites with useful designer features for everyday
 
 | DesignersUtils                                        |  Link                                                            |
 |-------------------------------------------------------|------------------------------------------------------------------|
+|                                                       | https://myip.ru/                                                 |
+|                                                       | https://myip.ru/                                                 |
 | ....................................................  | ...............................................                  |
 | CLeoMoon SessionGuard (имитатор движения мыши)        | https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/ |
 | ....................................................  | ...............................................                  |
@@ -32,9 +34,10 @@ Online Utilities and websites with useful designer features for everyday
 | ....................................................  | ...............................................                  |
 | FREE ICONS                                            | https://www.1001freedownloads.com/free-clipart/icon-set-player   |
 | ....................................................  | ...............................................                  |
-| GET COLOR FROM IMAGE                                  | https://pinetools.com/colorize-image                             |
+| GET COLOR FROM IMAGE                                  | https://imagecolorpicker.com/                                    |
 | INVERT COLOR OF IMAGE                                 | https://pinetools.com/invert-image-colors                        |
 | CHANGE 1 COLOR IN AN IMAGE COLORIZE IMAGE             | https://pinetools.com/colorize-image                             |
+| CHANGE 1 COLOR IN AN IMAGE COLORIZE IMAGE             | https://onlinepngtools.com/change-png-color                      |
 | ICO Icon creator                                      | http://www.xiconeditor.com/                                      |
 | ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE | http://wordexpert.ru/forum/viewtopic.php?id=1526                 |
 
