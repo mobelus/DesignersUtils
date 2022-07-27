@@ -18,20 +18,20 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 ### DesignersUtils
 Online Utilities and websites with useful designer features for everyday
 
-| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| DesignersUtils                                        |  Link                                                            |
 |-------------------------------------------------------|------------------------------------------------------------------|
-| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| ....................................................  | ...............................................                  |
 | CLeoMoon SessionGuard (имитатор движения мыши)        | https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/ |
-| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| ....................................................  | ...............................................                  |
 | Построение Блок-Схем и диаграмм - yEd                 | https://www.yworks.com/products/yed                              |
 | Построение диаграмм классов - UMLet                   | https://www.umlet.com/                                           |
 | UML-designer - PlantUML                               | https://www.planttext.com/                                       |
 | PlantUML guide                                        | http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf |
 | Просмотр зависимостей Dependency Walker (New ver.)    | https://github.com/lucasg/Dependencies/releases                  |
 | CppCheck - Static Code Analyser                       | http://cppcheck.sourceforge.net/                                 |
-| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| ....................................................  | ...............................................                  |
 | FREE ICONS                                            | https://www.1001freedownloads.com/free-clipart/icon-set-player   |
-| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| ....................................................  | ...............................................                  |
 | GET COLOR FROM IMAGE                                  | https://pinetools.com/colorize-image                             |
 | INVERT COLOR OF IMAGE                                 | https://pinetools.com/invert-image-colors                        |
 | CHANGE 1 COLOR IN AN IMAGE COLORIZE IMAGE             | https://pinetools.com/colorize-image                             |
