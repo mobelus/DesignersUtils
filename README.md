@@ -15,72 +15,52 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 #  ###########################################################
 
-### CLeoMoon SessionGuard (имитатор движения мыши)
-https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/
-
 ### DesignersUtils
 Online Utilities and websites with useful designer features for everyday
 
-### ICO Icon creator
-http://www.xiconeditor.com/
-
-### Построение Блок-Схем и диаграмм - yEd
-https://www.yworks.com/products/yed
-
-### Построение диаграмм классов - UMLet
-https://www.umlet.com/
-
-### UML-designer - PlantUML
-https://www.planttext.com/
-### PlantUML guide
-http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
-
-### Просмотр зависимостей - Dependency Walker (New version)
-https://github.com/lucasg/Dependencies/releases
-
-### CppCheck - Static Code Analyser 
-http://cppcheck.sourceforge.net/
-
-## FREE ICONS
-https://www.1001freedownloads.com/free-clipart/icon-set-player
-
-### GET COLOR FROM IMAGE
-https://pinetools.com/colorize-image
-
-### INVERT COLOR OF IMAGE
-https://pinetools.com/invert-image-colors
-
-### CHANGE COLOR 1 OF IMAGE / COLORIZE IMAGE
-https://pinetools.com/colorize-image
-
-### ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE:
-http://wordexpert.ru/forum/viewtopic.php?id=1526
+| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| CLeoMoon SessionGuard (имитатор движения мыши)        | https://leomoon.com/downloads/desktop-apps/leomoon-sessionguard/ |
+| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| Построение Блок-Схем и диаграмм - yEd                 | https://www.yworks.com/products/yed                              |
+| Построение диаграмм классов - UMLet                   | https://www.umlet.com/                                           |
+| UML-designer - PlantUML                               | https://www.planttext.com/                                       |
+| PlantUML guide                                        | http://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf |
+| Просмотр зависимостей Dependency Walker (New ver.)    | https://github.com/lucasg/Dependencies/releases                  |
+| CppCheck - Static Code Analyser                       | http://cppcheck.sourceforge.net/                                 |
+| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| FREE ICONS                                            | https://www.1001freedownloads.com/free-clipart/icon-set-player   |
+| HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  | HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                  |
+| GET COLOR FROM IMAGE                                  | https://pinetools.com/colorize-image                             |
+| INVERT COLOR OF IMAGE                                 | https://pinetools.com/invert-image-colors                        |
+| CHANGE 1 COLOR IN AN IMAGE COLORIZE IMAGE             | https://pinetools.com/colorize-image                             |
+| ICO Icon creator                                      | http://www.xiconeditor.com/                                      |
+| ENGLISH IN IT-WEB-DEVELOPMENT-APPS-GRAFICAL-INTERFACE | http://wordexpert.ru/forum/viewtopic.php?id=1526                 |
 
 https://i.snag.gy/nTPI3R.jpg
+Для графического редактора необходимо спроектировать подсистему загрузки / сохранения данных из различных форматов файлов (XML, JSON). Предусмотреть возможность расширения списка поддерживаемых форматов и фигур. Нарисовать диагрвммы классов и последовательностей. В представленной диаграмме требьуется реализовать такую врхитектуру, при которой иерархии объектов и форматов можно будет изменять независимо. Например должна быть возможность доавить формат фалйа ТХТ, не изменяя классы фигур. И наоборот - добавить новую фигуру не изменяя форматы.
 
 # JAVA INTERVIEW QUESTIONS
 
 https://github.com/enhorse/java-interview
 
 # HOTKEYS
-```
+
 Найти Во всём проекте
-Ctrl + Shift + F
-Ctrl + H   заменить много где во всём файле
-Alt - Горизонтальное выделение квадратом и редактирование Квадратом
-Ctrl + Shift + Left / Ctrl + Shift + Right
-
-Alt + Tab
-Alt + F4
-
-Ctrl + F
-Crtl + L - Перейти к адресной строке проводника или Internet Explorer.
-F5 - Обновить окно проводника или Internet 
-Backspace -	Перейти на уровень вверх в окне проводника или Internet Explorer.
-
-
-F2 - переименовать файл / папку
-Выдекление  / Перетаскивания с Shif / Ctrl
+| Ctrl + Shift + F
+| Ctrl + H   заменить много где во всём файле
+| Alt - Горизонтальное выделение квадратом и редактирование Квадратом
+| Ctrl + Shift + Left / Ctrl + Shift + Right
+|
+| Alt + Tab
+| Alt + F4
+|
+| Ctrl + F
+| Crtl + L - Перейти к адресной строке проводника или Internet Explorer.
+| F5 - Обновить окно проводника или Internet 
+| Backspace -	Перейти на уровень вверх в окне проводника или Internet Explorer.
+|
+| F2 - переименовать файл / папку
+| Выдекление  / Перетаскивания с Shif / Ctrl
 
 Insert !!!
 Перехлж нра цифровую клаиватуру Num Lock !!!
