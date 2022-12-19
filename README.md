@@ -430,3 +430,70 @@ allow [эллау] - допускать / дозволять
 any [эни] - любой / каждый
 
 ```
+
+
+### Посчитать количество установленных битов в двоичном представлении входного числа типа int
+https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
+
+- Brian Kernighan's algorithm
+```
+int NumberOfSetBits(int n)
+{
+  int count = 0;
+  while(n) {
+    ++ count;
+    n = (n - 1) & n;
+  }
+  return count;
+}
+// tCmplx: O(log n) // Space: O(1)
+```
+- Решение 2
+```
+unsigned int bitCount (unsigned int value)
+{
+  unsigned int count = 0;
+  while (value > 0) {     // until all bits are zero
+    if ((value & 1) == 1) // check lower bit
+      count++;
+    value >>= 1;          // shift bits, removing lower bit
+  }
+  return count;
+}
+// tCmplx: O(1) // Space: O(1)
+```
+- Решение 3 Using Lookup table: We can count bits in O(1) time using the lookup table.
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int BitsSetTable256[256];
+
+void initialize() // the lookup table
+{   // To initially generate the
+    // table algorithmically
+    BitsSetTable256[0] = 0;
+    for (int i = 0; i < 256; i++)
+    {
+        BitsSetTable256[i] = (i & 1) +
+        BitsSetTable256[i / 2];
+    }
+}
+ 
+int countSetBits(int n) // ret num of set bits in n
+{
+  return 
+    BitsSetTable256[n & 0xff] +
+    BitsSetTable256[(n >> 8) & 0xff] +
+    BitsSetTable256[(n >> 16) & 0xff] +
+    BitsSetTable256[n >> 24]);
+}
+
+int main()
+{
+    initialize(); // Initialise the lookup table
+    int n = 9;
+    cout << countSetBits(n);
+}
+// tCmplx: O(1) // Space: O(1)
+```
