@@ -109,6 +109,79 @@ https://github.com/enhorse/java-interview
 | Qt:		F4                 |                                                                   |
 
 
+https://github.com/mobelus/DesignersUtils
+
+
+### Проблемы в коде:
+```
+class A {
+    int i;
+    public:
+    A(A a):i(a.i) // (1 Заменить конструктор копии)
+    { }
+    A(int i_):i(i_)
+    { }
+};
+```
+```
+// НАДО 
+// 1. Заменить конструктор копии на:
+// A(const A& a):i(a.i) { }
+// 2. Добавить елси надо explicit:
+// explicit A(const A& a):i(a.i) { }
+// 3. Потенциально добавить конструктор по умолчанию
+// A():i(0) { }
+```
+
+### Проблемы в коде
+```
+using <iostream>
+using <string>
+with std::string;
+with std::cout;
+func() {
+  string s('One');
+  char* ptr = s.data();
+  s->append('Two');
+  cout << s << ptr;
+  s->append('ThreeFourFiveSix');
+  cout << s << ptr;
+}
+```
+НАДО:
+```
+#include <iostream>
+#include <string>
+using namespace std;
+
+string func() {
+  string s("One");
+  const char* ptr = s.data();
+
+  int size = s.size(); // 3
+  int capacity = s.capacity(); // 15 (SSO)
+
+  s.append("Two");
+  // ptr будет указывать на s, ибо капасити
+  // хватило, и s не реаллоцировалось
+
+  int size = s.size(); // 6
+  int capacity = s.capacity(); // 15
+
+  cout << s << ptr; //=> "OneTwoOneTwo"
+
+  s.append("ThreeFourFiveSix");
+  // ptr станет МУСОРОМ, ибо память под старое s удалится
+  
+  int size1 = s.size(); // 22
+  int capacity1 = s.capacity(); // 31
+  
+  cout << s << ptr; //=> "OneTwoМУСОР"
+  
+  return s;
+}
+```
+
 
 # English for english beginner friend
 
