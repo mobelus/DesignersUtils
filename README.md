@@ -112,6 +112,18 @@ https://github.com/enhorse/java-interview
 https://github.com/mobelus/DesignersUtils
 
 
+### Helper class
+- Этот класс лучше сделать неинстанцируемым (=delete для конструктора и деструктора)
+- и все члены класса сделать static (убрать const).
+- Обычно для хелпера выбирают между namespace и неинстанцируемым классом со статическими методами.
+- Каждый из подходов имеет свои преимущества.
+
+### Циклы для поиска
+- заменять стоит на algorithms
+- bool found <= std::any_of()
+- iter <= std::find_if() != .end()
+- for(auto item : collection) / for(auto& item : collection)
+
 ### Проблемы в коде:
 ```
 class A {
@@ -134,6 +146,7 @@ class A {
 ```
 
 ### Проблемы в коде
+
 ```
 using <iostream>
 using <string>
